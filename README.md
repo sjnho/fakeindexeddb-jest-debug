@@ -8,7 +8,7 @@ node: v20.9.0
 
 if my code is work correct, `removeByIndexUpper` will remove 2 records.
 
-so the test suite will be passwd.
+so the test suite will be passed.
 
 ## How to reproduce
 ```
