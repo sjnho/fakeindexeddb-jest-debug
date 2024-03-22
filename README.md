@@ -6,7 +6,7 @@ node: v20.9.0
 ## What's the problem
 `expect(allList2.length).toEqual(3);`
 
-if my code is work correct, `removeByIndexUpper` will remove 2 records.
+if my code  work correct, `removeByIndexUpper` will remove 2 records.
 
 so the test suite will be passed.
 
